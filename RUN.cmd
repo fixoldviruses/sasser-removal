@@ -15,7 +15,7 @@ cls
 echo This tool is made by Lucas Gabriel (lucmsilva)
 echo in 2 August 2023
 echo.
-echo Sassier removed.
+echo Sasser removed.
 echo Remember to install all updates available.
 echo Just press enter to close this script and restart your computer.
 pause >nul
