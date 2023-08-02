@@ -1,5 +1,5 @@
 shutdown -a
-REG DELETE "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "avserve2.exe" /f
+REG DELETE "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "avserve2.exe" /f
 shutdown -a
 taskkill /f /im avserv2.exe
 shutdown -a
